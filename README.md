@@ -3,7 +3,7 @@
 <h3 align="center">I am a Data Analyst Candidate</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mancell&label=Profile%20views&color=0e75b6&style=flat" alt="mancell" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mancell&label=Profile%20views&color=0e75b6&style=flat](https://files.oaiusercontent.com/file-anBn2J5JyWOVH9rFIR3eyBlY?se=2024-10-02T10%3A28%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D69a87889-b542-4da2-b3e2-154fee225eda.webp&sig=Kdma2sOrUUAcmpAL5ZWzvArXJpgeTjqaRBl58eRiCt8%3D)" alt="mancell" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancell" alt="mancell" /></a> </p>
 
