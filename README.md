@@ -8,8 +8,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mahmut Ali Öncel</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mancell&label=Profile%20views&color=0e75b6&style=flat" alt="mancell" /> </p>
 
