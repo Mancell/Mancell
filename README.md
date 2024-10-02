@@ -3,12 +3,6 @@
 <h3 align="center">I am a Data Analyst Candidate</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mancell&label=Profile%20views&color=0e75b6&style=flat" alt="mancell" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancell" alt="mancell" /></a> </p>
