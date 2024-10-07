@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **moncel1091@gmail.com**
 
-- ⚡ Fun fact **In today's world where data is very important, I always try to improve myself for the better.**
+- ⚡ Fun fact **In today's World where data is very important, I always try to improve myself for the better.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
